@@ -1,1 +1,4 @@
-# Machine-learnong-ex2
+Machine-learning-course
+Stanford Andrey Ng
+
+Exercise 1
